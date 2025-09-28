@@ -9,17 +9,13 @@ The assignment focuses on tasks related to **data preparation**, including:
 - Correlation analysis and handling missing values
 
 Datasets used in this assignment are available online (links are provided in the assignment description).
-
-⚠️ **Important note:** According to the assignment instructions, the use of AI tools such as ChatGPT for solving the assignment is not allowed.  
-This repository only documents and organises the work.
-
 ---
 
 ## Task Overview
 
 ### **Task 1: Profiling relational data**
 - Read the paper on profiling relational data.  
-- Select a set of **at least 10 different summary statistics** to characterise a dataset (e.g. from the *road safety* dataset).  
+- Select a set of **at least 10 different summary statistics** to characterise the dataset (road safety vehicles.csv).  
 - Implement Python code to compute these statistics.  
 - Provide explanations of the importance of each statistic in understanding dataset characteristics.
 
