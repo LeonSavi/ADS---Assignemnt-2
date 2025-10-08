@@ -1,3 +1,7 @@
+# Assignment 2  
+- **Deadline:** 7.09.2025 at 9:00 AM
+- **Public:** The repository is public for grading purposes and will be made private afterwards.
+
 # INFOMDWR – Assignment 2: Data Integration & Preparation
 
 ## Introduction
